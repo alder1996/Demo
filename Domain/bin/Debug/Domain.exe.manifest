@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Domain.exe" size="10208">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Domain.exe" size="11232">
       <assemblyIdentity name="Domain" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>itTh6UsXanIC4kYnn3Wz61Eusuj+i9fR79X4yu7MOLE=</dsig:DigestValue>
+        <dsig:DigestValue>3bByNrMelpcCpPEPkcJreh8TaRkkxDdrVie5DGr8274=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
